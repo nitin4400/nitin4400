@@ -1,3 +1,6 @@
+## About Me
+ 
+Hii, I am Nitin Kumar Mahli and I am learning about Spring Boot, Maven, and Hibernate, with a strong interest in software testing, and has hands-on experience in API testing using Postman and Swagger, performance testing using JMeter, and working with REST APIs and HTTP methods like GET, POST, PUT, PATCH, and DELETE using Eclipse IDE.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-kumar-mahli-20696a376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinkumarmahli3@gmail.com) 
